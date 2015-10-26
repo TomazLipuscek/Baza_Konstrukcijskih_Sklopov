@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Baza Konstrukcijskih Sklopov</string>
+    <string name="izberite">Izberite ali vpišite željeno lokacijo!</string>
+    <string name="isci">Išči</string>
+    <string name="osvezi">Osveži</string>
+    <string name="enable_gps">Vklopi GPS</string>
+    <string name="enable_gps_dialog">GPS ni vklučen. Bi ga želeli vklopiti?</string>
+    <string name="unknown">--Unknown--</string>
+    <string name="not_support_gps">GPS ni vklopljen</string>
+    <string name="not_support_network">Podatkovna povezava ni omogočena</string>
+    <string name="my_location">Moja lokacija</string>
+    
+    <string name="stavba">Stavba</string>
+    <string name="steklene_povrsine">Steklene površine</string>
+    
+    <string name="dopolnite">Dopolnite oziroma popravite podatke o lokaciji</string>
+    <string name="obcina">Občina:</string>
+    <string name="postna">Poštna številka:</string>
+    <string name="naselje">Naselje:</string>
+	<string name="ulica">Ulica:</string>
+	<string name="hisnastevilka">Hišna številka:</string>
+    <string name="dodatek">Dodatek k hišni številki:</string>
+	<string name="stevilka">Številka stanovanja:</string>
+    <string name="tipstavbe">Tip stavbe:</string>
+	<string name="letoizgradnje">Leto izgradnje:</string>
+	<string name="visinastavbe">Višina stavbe:</string>
+	<string name="uporabnapovrsina">Uporabna površina:</string>
+    <string name="netotlorisna">Neto tlorisna površina:</string>
+	<string name="povrsina">Površina zemljišča pod stavbo:</string>
+	
+	<string name="izberitetip">Izberite tip</string>
+    <string-array name="tip_stavbe">
+        <item>enostanovanjska</item>
+        <item>večstanovanjska</item>
+        <item>upravna in pisarniška stavba</item>
+        <item>stavba za izobraževanje</item>
+        <item>stavba za zdravstvo</item>
+        <item>gostinska stavba</item>
+        <item>športna stavba</item>
+        <item>trgovska stavba</item>
+        <item>stavba za storitvene dejavnosti</item>
+        <item>stavba za druge namene</item>
+    </string-array>
+
+    <string name="sklopiNeizbrani">Konstrukcijski sklopi še niso vneseni.</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="menu_delete">Izbriši</string>
+    <string name="menu_uredi">Uredi</string>
+    <string name="sklop_vnesen">Konstrukcijski sklop uspešno vnesen</string>
+    <string name="konstrukcijski_sklopi">Konstrukcijski sklopi:</string>
+    
+    <string name="sklop_vrsta">Vrsta sklopa po 9.členu Pravilnika</string>
+    <string name="ime_sklopa">Ime sklopa:</string>
+    
+    <string name="povrsina_strehe">Površina strehe:</string>
+    <string name="naklon_strehe">Naklon strehe (v stopinjah):</string>
+    <string name="visina_podstresja">Višina podstrešja:</string>
+    <string name="podstresje_je">Podstrešje je:</string>
+    <string name="ogrevano">ogrevano</string>
+    <string name="neogrevano">neogrevano</string>
+    <string name="shrani">Shrani</string>
+    <string name="povrsina_stene">Površina stene:</string>
+    <string name="povrsina_tla">Površina tal:</string>
+    
+    <string name="vnosSteklene">V spodnja polja vpišite površine oken (A) in koeficient toplotne prepustnosti oken (U):</string>
+    <string name="Asever">A sever:</string>
+    <string name="Ajug">A jug:</string>
+    <string name="Avzhod">A vzhod:</string>
+    <string name="Azahod">A zahod:</string>
+    <string name="Avrat">A vrat:</string>
+    <string name="Uoken">U oken:</string>    
+    
+    <string name="vnosRezim">Prosimo vas, da vpišete še naslednje vrednosti, ki se nanašajo na režim uporabe vaše stavbe.</string>
+    <string name="vnosRezimDecimalne">Decimalna števila vnašajte s piko, npr. 2.72 .</string>
+    <string name="ogrevanjePodnevi">Na koliko stopinj ogrevate stavbo podnevi?</string>
+    <string name="ogrevanjePonoci">Na koliko stopinj ogrevate stavbo ponoči?</string>
+    <string name="zunajPodnevi">Kolikšna je povprečna temperatura zunaj podnevi?</string>
+    <string name="zunajPonoci">Kolikšna je povprečna temperatura zunaj ponoči?</string>
+    <string name="kolikoVstavbi">Koliko vas živi v stavbi?</string>
+    
+    <string name="dodajM">Dodaj material</string>
+    <string name="ustvariS">Ustvari sklop</string>
+    <string name="vneseni_materiali">Vneseni materiali:</string>
+    <string name="materialiNeizbrani">Materiali za izbrani sklop še niso vneseni.</string>
+    <string name="m2">m2</string>
+    <string name="WmK">W/mK</string>
+    <string name="d">d:</string>
+    <string name="m">m</string>
+    <string name="cm">cm</string>
+    <string name="mm">mm</string>
+    <string name="stopinjC">°C</string>
+    <string name="pozicija">Pozicija materiala (od znotraj navzen):</string>
+    <string name="poslji">Pošlji</string>
+    <string name="odpri">Odpri</string>
+    <string name="izracunaj">Izračunaj</string>
+
+    <string name="REZULTATI">REZULTATI:</string>
+    <string name="toplotneIzgube">Toplotne izgube skozi stavbo (Ld + Ls):</string>
+    <string name="tokPodnevi">Toplotni tok skozi stavbo podnevi:</string>
+    <string name="tokPonoci">Toplotni tok skozi stavbo podnoči:</string>
+    <string name="tokU">Toplotni tok (povprečno):</string>
+
+</resources>
